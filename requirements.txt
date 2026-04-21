@@ -1,0 +1,11 @@
+ultralytics
+supervision
+opencv-python
+numpy
+scipy
+matplotlib
+pandas
+filterpy
+lap
+torch
+torchvision
